@@ -16,6 +16,7 @@ This is going to be a full-stack walkthrough.  I'll even try and go over every d
   - [Leiningen](leiningen.org): Project management and build/automation toolset
   - [Light Table](http://lighttable.com/): Code editor with inline clojure repl.  Written entirely in ClojureScript!
   - [Figwheel](github.com/bhauman/lein-figwheel): A livereload plguin for leiningen with a browser repl
+  - [Speclj](github.com/slagyr/speclj): A TDD/BDD framework for Clojure and ClojureScript. (If necessary)
 
 - Server:
   - [Immutant 2](immutant.org): Immutant 2's web library is an abstraction over [Undertow](undertow.io), a java server
