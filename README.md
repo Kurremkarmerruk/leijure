@@ -20,7 +20,7 @@ This is going to be a full-stack walkthrough.  I'll even try and go over every d
 
 - Server:
   - [Immutant 2](immutant.org): Immutant 2's web library is an abstraction over [Undertow](undertow.io), a java server
-  - [Compojure](github.com/weavejester/compojure): A routing library (Probably unecessary)
+  - [Compojure](github.com/weavejester/compojure): A routing library (If necessary)
   - [Monger](clojuremongodb.info): Monger is an idiomatic Clojure abstraction over Java MongoDB driver
 
 - Client:
