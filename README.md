@@ -1,5 +1,7 @@
 # Leijure
 
+[![Join the chat at https://gitter.im/Kurremkarmerruk/leijure](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Kurremkarmerruk/leijure?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 From antiquarian to clojurian. A walkthrough of Clojure and ClojureScript like no other.  This guide will bring you through a full-stack, single-page, web-app. What-fun!
 
 ## Attention
