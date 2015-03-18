@@ -4,7 +4,7 @@
 
 From antiquarian to clojurian. A walkthrough of Clojure and ClojureScript like no other.  This guide will bring you through a full-stack, single-page, web-app. What-fun!
 
-## Attention
+## Notice
 
 Several opinions reside here.  I like to think of myself as relatively discerning, but I strongly lack the real-world experience. I am really just doing this because teaching is my preferred way of learning things.  Whether this guide will be useful or come to completion is mostly unimportant as I'm in it for the process.  As I recently read, this is (in a way) my antiwork.  Doing something *I* want to do, the way *I* want to do it.
 
@@ -21,7 +21,9 @@ This is going to be a full-stack walkthrough.  I'll try to go over every decisio
   - [Speclj](github.com/slagyr/speclj): A TDD/BDD framework for Clojure and ClojureScript. (If necessary)
 
 - Server:
-  - [Immutant 2](immutant.org): Immutant 2's web library is an abstraction over [Undertow](undertow.io), a java server
+  - [Docker](docker.com): An application container platform
+  - [WildFly](wildfly.org): Immutant 2's preferred app server. [Dockerfile](github.com/jboss-dockerfiles/wildfly)
+  - [Immutant 2](immutant.org): Immutant 2's web library is an abstraction over [Undertow](undertow.io), a java web server
   - [Compojure](github.com/weavejester/compojure): A routing library (If necessary)
   - [Monger](clojuremongodb.info): Monger is an idiomatic Clojure abstraction over Java MongoDB driver
 
