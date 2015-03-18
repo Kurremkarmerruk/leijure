@@ -12,6 +12,12 @@ Several opinions reside here.  I like to think of myself as relatively discernin
 
 This is going to be a full-stack walkthrough.  I'll try to go over every decision I make with regards to server, tooling, editors, devops, and anything else that comes up!   I want the SPA to be fast, written entirely in clojure, and a nice blend of fun programmer-oriented features and user-facing enjoyment (compatibility, smoothness, gui speed, real-time updates).
 
+## Goal
+
+A clojure-powered [SPA](http://en.wikipedia.org/wiki/Single-page_application) for a fake restaurant.  The site will have a  news component, menu component, drinks component, specials component, gift cards component, gallery component, and an about component.  There will also be an admin interface to adjust menu items, prices, add specials, run promotions, add new banners and write news content.
+
+No online ordering.  Not sure if I will ever go there.  I am considering a table reservation system.  Also this will need either an emailer or integration with a batch email system.   This will come later.
+
 ## Current proposed stack:
 
 - Tools:
